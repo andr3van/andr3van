@@ -22,25 +22,29 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align='center'>
+<h3 align='center'>
   Languages
-</h2>
+</h3>
 <p align='center'>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img alt="Apache Groovy" src="https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white"/>
 </p>
 
-<h2 align='center'>
+<br>
+
+<h3 align='center'>
   Blog
-</h2>
+</h3>
 <p align='center'>
   <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </p>
 
-<h2 align='center'>
+<br>
+
+<h3 align='center'>
   Database
-</h2>
+</h3>
 <p align='center'>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="SQLite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -49,9 +53,10 @@ Here are some ideas to get you started:
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=whit"/>
 </p>
 
-<h2 align='center'>
+<br>
+<h3 align='center'>
   Frameworks & Library
-</h2>
+</h3>
 <p align='center'>
   <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"/>
   <img alt="Apache Maven" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
@@ -69,9 +74,11 @@ Here are some ideas to get you started:
   <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
 </p>
 
-<h2 align='center'>
+<br>
+
+<h3 align='center'>
   IDE
-</h2>
+</h3>
 <p align='center'>
   <img alt="Apache Netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
@@ -82,17 +89,21 @@ Here are some ideas to get you started:
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-<h2 align='center'>
+<br>
+
+<h3 align='center'>
   Security Tools
-</h2>
+</h3>
 <p align='center'>
   <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>
   <img alt="Burpsuite" src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
-<h2 align='center'>
+<br>
+
+<h3 align='center'>
   Software Metrics and Analytics
-</h2>
+</h3>
 <p align='center'>
   <img alt="Datadog" src="https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"/>
@@ -101,9 +112,11 @@ Here are some ideas to get you started:
   <img alt="Sonarqube" src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 </p>
 
-<h2 align='center'>
+<br>
+
+<h3 align='center'>
   Terminal
-</h2>
+</h3>
 <p align='center'>
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Homebrew" src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white"/>
@@ -112,17 +125,21 @@ Here are some ideas to get you started:
   <img alt="ZSH" src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white"/>
 </p>
 
-<h2 align='center'>
+<br>
+
+<h3 align='center'>
   Virtualization
-</h2>
+</h3>
 <p align='center'>
   <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white"/>
   <img alt="Virtualbox" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
 </p>
 
-<h2 align='center'>
+<br>
+
+<h3 align='center'>
   Workflow
-</h2>
+</h3>
 <p align='center'>
   <img alt="Argo CD" src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe"/>
@@ -131,9 +148,11 @@ Here are some ideas to get you started:
   <img alt="Circle CI" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
 </p>
 
-<h2 align='center'>
+<br>
+
+<h3 align='center'>
   Others
-</h2>
+</h3>
 <p align='center'>
   <img alt="Linode" src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white"/>
   <img alt="WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
